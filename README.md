@@ -1,6 +1,6 @@
 # Unity WebGL CI/CD with GitHub Actions
 
-WebGL published here: https://AnthonyArcturusArcane.github.io/UnityBoilerplate_TEST/
+WebGL published here: https://AnthonyArcturusArcane.github.io/UnityBoilerplate_TEST/ 
 
 # Setup Steps:
 
